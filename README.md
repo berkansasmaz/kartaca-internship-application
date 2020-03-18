@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Kartaca Internship Application 👋</h1>
 <p>
   
-  ![build](https://github.com/berkansasmaz/kartaca-internship-application/workflows/Build/badge.svg?branch=master)
-  <img alt="Version" src="https://img.shields.io/badge/version-0.5-blue.svg?cacheSeconds=2592000" />
+![Build](https://github.com/berkansasmaz/kartaca-internship-application/workflows/Build/badge.svg?branch=master)
+<img alt="Version" src="https://img.shields.io/badge/version-0.5-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/berkansasmaz/kartaca-internship-application/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
