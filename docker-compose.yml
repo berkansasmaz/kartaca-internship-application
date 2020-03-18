@@ -1,0 +1,17 @@
+version: '3.5'
+services:
+  server:
+    image: berkansasmaz/kartaca-internship-application
+    networks:
+      - kartaca
+    ports: 
+      - "3000:3000"
+  client:
+    image: berkansasmaz/kartaca-internship-application-client
+    networks:
+      - kartaca
+    ports: 
+      - "8080:8080"
+networks:
+  kartaca:
+    driver: bridge
